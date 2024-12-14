@@ -8,3 +8,5 @@ wordcloud
 pillow==10.2.0
 plotly==5.24.1
 Levenshtein
+squarify==0.4.4
+seaborn==0.13.2
