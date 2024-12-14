@@ -1,0 +1,9 @@
+streamlit
+babel
+altair==4.1.0
+pandas
+numpy
+matplotlib
+wordcloud
+pillow==10.2.0
+Levenshtein
